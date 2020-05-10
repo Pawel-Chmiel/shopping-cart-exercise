@@ -6,7 +6,7 @@
       },
       "fields": {
         "title": "królewskie łoże",
-        "price": 10.99,
+        "price": 1800,
         "image": {
           "fields": {
             "file": {
@@ -22,7 +22,7 @@
       },
       "fields": {
         "title": "książęce łóżko",
-        "price": 12.99,
+        "price": 2250,
         "image": {
           "fields": {
             "file": {
@@ -38,7 +38,7 @@
       },
       "fields": {
         "title": "pojedyncze łóżko",
-        "price": 12.99,
+        "price": 1369,
         "image": {
           "fields": {
             "file": {
@@ -54,7 +54,7 @@
       },
       "fields": {
         "title": "łóżko podwójne",
-        "price": 22.99,
+        "price": 2300,
         "image": {
           "fields": {
             "file": {
@@ -70,7 +70,7 @@
       },
       "fields": {
         "title": "lodówka",
-        "price": 88.99,
+        "price": 1880,
         "image": {
           "fields": {
             "file": {
@@ -86,7 +86,7 @@
       },
       "fields": {
         "title": "leżak",
-        "price": 32.99,
+        "price": 1450,
         "image": {
           "fields": {
             "file": {
@@ -102,7 +102,7 @@
       },
       "fields": {
         "title": "kanapa-narożnik",
-        "price": 45.99,
+        "price": 3600,
         "image": {
           "fields": {
             "file": {
@@ -118,7 +118,7 @@
       },
       "fields": {
         "title": "stół",
-        "price": 33.99,
+        "price": 1200,
         "image": {
           "fields": {
             "file": {
